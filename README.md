@@ -1,2 +1,2 @@
 # FirstExperiment
-To learn how it wors - no significant data
+To learn how it works - no significant data
